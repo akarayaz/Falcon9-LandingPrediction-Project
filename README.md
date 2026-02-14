@@ -19,7 +19,7 @@ The project is divided into multiple notebooks, each focusing on a stage of the 
 - **interactive_folium.ipynb** - Built maps to visualize launch sites and trajectories.  
 
 ### Machine Learning Prediction
-- **machine_learning_prediction.ipynb** - Built and tuned classification models (**Logistic Regression, SVM, Decision Trees, KNN**) to predict landing success.
+- **machine_learning_prediction.ipynb** - Built and tuned classification models (**Logistic Regression, SVM, Decision Trees, K-Nearest Neighbors**) to predict landing success.
 
 ## Tools & Libraries
 - Python (**Pandas, NumPy, Scikit-learn**)  
